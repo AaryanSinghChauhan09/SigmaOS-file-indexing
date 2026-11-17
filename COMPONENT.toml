@@ -3,7 +3,7 @@ name = "SigmaOS-file-indexing"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "file-indexing component"
+description = "file indexing"
 upstream = []
 
 [contract]
